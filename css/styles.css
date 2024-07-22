@@ -18,7 +18,9 @@ body {
 .logo-header:focus {
   color: #404bbf;
 }
-
+.logo-header.link:active {
+  color: #404bbf;
+}
 .logo-studio {
   color: #2e2f42;
 }
