@@ -7,7 +7,7 @@ body {
   font-style: normal;
 }
 .logo-header { 
-  font-family: "Raleway", sans-serif
+  font-family:'Raleway', sans-serif
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
@@ -15,6 +15,10 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
+.logo-header:focus{
+  color: #404bbf
+}
+
 .logo-studio {
   color: #2e2f42;
 }
@@ -107,7 +111,12 @@ body {
   color: #f4f4fd;
   letter-spacing: 0.02em;
 }
-
+.ourteam{
+  background-color: #F4F4FD
+}
+.ourteam-li{
+  background-color: #FFFFFF 
+}
 .ourteam-title {
   font-weight: 700;
   font-size: 36px;
