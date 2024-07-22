@@ -3,8 +3,10 @@ body {
   color: #434455;
   background-color: #fff;
 }
+.contacts {
+  font-style: normal;
+}
 .logo-header {
-  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
@@ -84,6 +86,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
 
 .ourteam-title {
@@ -101,10 +104,7 @@ body {
 
   color: #2e2f42;
 }
-.teammember-img {
-  width: 264px;
-  height: 260px;
-}
+
 .teammember-post {
   font-weight: 400;
   font-size: 16px;
