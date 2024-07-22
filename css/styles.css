@@ -15,12 +15,11 @@ body {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.logo-header:focus {
-  color: #404bbf;
-}
+.logo-header:focus,
 .logo-header.link:active {
   color: #404bbf;
 }
+
 .logo-studio {
   color: #2e2f42;
 }
