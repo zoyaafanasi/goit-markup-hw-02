@@ -3,6 +3,12 @@ body {
   color: #434455;
   background-color: #fff;
 }
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
 .contacts {
   font-style: normal;
 }
@@ -10,7 +16,7 @@ body {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 117%;
+  line-height: 1.2;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -31,7 +37,6 @@ body {
   color: #2e2f42;
 }
 .contacts-link {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -82,7 +87,6 @@ body {
   letter-spacing: 0.02em;
 }
 .feature-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -105,7 +109,6 @@ body {
   color: #f4f4fd;
 }
 .text-footer {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   color: #f4f4fd;
@@ -137,13 +140,11 @@ body {
 }
 
 .teammember-post {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .portfolio-title {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
